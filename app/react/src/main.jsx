@@ -8,3 +8,6 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+
+// what is virtula DOM
+// Difference between virtual DOM and real DOM
