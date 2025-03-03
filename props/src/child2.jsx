@@ -1,7 +1,8 @@
 function Child2(props){
+    let {age}=props
     return(
         <>
-        <h1>My age is {props.age}</h1></>
+        <h1>My age is {age}</h1></>
     )
 }
 
